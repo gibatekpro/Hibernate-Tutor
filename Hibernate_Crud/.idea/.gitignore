@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../../../:\Users\HP\IdeaProjects\Hibernate-Tutor\.idea/dataSources/
+/../../../../../../../:\Users\HP\IdeaProjects\Hibernate-Tutor\Hibernate_Crud\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
