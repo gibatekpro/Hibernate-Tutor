@@ -1,4 +1,4 @@
-package com.gibatekpro.hibernate.demo;
+package com.gibatekpro.hibernate.demo.uni;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
